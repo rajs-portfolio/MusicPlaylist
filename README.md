@@ -1,4 +1,4 @@
-# 🎵 Music Playlist Management System (Java)
+# 🎵 Music Playlist Management System
 
 A simple **console-based Music Playlist Management System** developed in **Java**. This project allows users to manage a playlist by adding, viewing, searching, and removing songs using an `ArrayList`.
 
@@ -53,7 +53,7 @@ Contains the main menu and playlist operations.
 ## 📋 Menu
 
 ```
-===== MUSIC PLAYLIST =====
+MUSIC PLAYLIST
 1. Add Song
 2. View Playlist
 3. Search Song
