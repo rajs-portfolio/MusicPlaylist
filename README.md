@@ -1,18 +1,19 @@
 🎵 Music Playlist Management System
 
-A simple Java console project that allows users to create and manage a music playlist.
+A simple console-based Music Playlist Management System built with Java.
+The application allows users to create and manage a playlist by adding, viewing, searching, and removing songs.
 
-This project was made to practice the basics of Java programming, OOP, ArrayList, and user input.
+This project was created to strengthen my understanding of Java fundamentals, Object-Oriented Programming (OOP), ArrayList, methods, loops, and user input.
 
 📌 Features
 
-The program allows you to:
+The application provides the following features:
 
-- 🎵 Add a song to the playlist
-- 📋 View all songs
-- 🔍 Search for a song
-- ❌ Remove a song
-- 🚪 Exit the program
+- 🎵 Add Song — Add a new song to the playlist.
+- 📋 View Songs — Display all songs currently in the playlist.
+- 🔍 Search Song — Search for a song by its title.
+- ❌ Remove Song — Remove a song from the playlist.
+- 🚪 Exit — Exit the application.
 
 🛠️ Technologies Used
 
@@ -32,9 +33,9 @@ MusicPlaylist/
 
 1. Install Java
 
-Make sure Java JDK is installed on your computer.
+Make sure the Java Development Kit (JDK) is installed on your computer.
 
-Check Java:
+Check the Java version:
 
 java --version
 
@@ -76,22 +77,23 @@ Song added successfully!
 
 🧠 What I Learned
 
-While making this project, I practiced:
+Through this project, I practiced and improved my understanding of:
 
 - Creating classes and objects
 - Using constructors
 - Working with "ArrayList"
-- Taking input using "Scanner"
+- Taking user input using "Scanner"
 - Using loops
 - Using "if-else" statements
-- Using "switch"
+- Using "switch" statements
 - Creating and calling methods
 - Comparing strings using "equalsIgnoreCase()"
-- Removing items using "removeIf()"
+- Removing elements using "removeIf()"
+- Applying basic Object-Oriented Programming concepts
 
 🔮 Future Improvements
 
-I would like to add more features in the future, such as:
+I plan to expand this project by adding features such as:
 
 - [ ] Add artist name
 - [ ] Add album and genre
@@ -101,19 +103,18 @@ I would like to add more features in the future, such as:
 - [ ] Save playlists to a file
 - [ ] Load saved playlists
 - [ ] Create multiple playlists
-- [ ] Add a GUI
-- [ ] Connect the project to a database
+- [ ] Add a graphical user interface (GUI)
+- [ ] Connect the application to a database
 
 🎯 About the Project
 
-This is a beginner-level Java project created to get more comfortable with programming and Object-Oriented Programming.
+This is a beginner-level Java project created to gain practical experience with programming and Object-Oriented Programming.
 
-It is a small project, but it helped me understand how basic Java concepts can be combined to create a simple real-world application.
+Although the application is simple, it helped me understand how different Java concepts can be combined to build a small real-world console application.
 
 👨‍💻 Author
 
 Raj Sharma
-
 BCA Student | Beginner Java Developer
 
 📄 License
